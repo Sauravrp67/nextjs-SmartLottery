@@ -107,6 +107,7 @@ export default function LotteryEntrance() {
             ) : (
                 <div>No Raffle Address Detected</div>
             )}
+            What up MODAFUKAS!!!
         </div>
     )
 }
